@@ -1,0 +1,10 @@
+/* 1. CSS custom properties (variables) */
+:root {
+  --primary-color: #1d4e5b;     /* deep teal: header, headings */
+  --accent-color: #e8a33d;      /* marigold: highlights, hover */
+  --visited-color: #7a5c99;     /* plum: visited links */
+  --bg-color: #eef3f2;          /* soft mist: page background */
+  --text-color: #22313a;        /* slate: body text */
+  --heading-font: Georgia, "Times New Roman", serif;
+  --body-font: "Trebuchet MS", Verdana, Arial, sans-serif;
+}
